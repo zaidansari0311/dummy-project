@@ -1,0 +1,39 @@
+
+.Link {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  display: block;
+}
+
+.Link:hover{
+    background-color: white;
+}
+.dashBoard{
+    height: 100vh;
+    width: 100wh;
+    background-color: white;
+}
+
+.dashBoard::before{
+    position: absolute;
+    content: "Welcome :)";
+    color: black;
+    top: 39%;
+    left: 45%;
+    font-size: 5rem;
+    opacity: 0.5;
+}
+
+#newModal{
+    max-width: 90vw;
+    max-height: 80vh;
+}
+
+#cc-btn{
+    width: 75%;
+}
+#pn-btn{
+    width: 70%;
+}

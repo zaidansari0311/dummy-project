@@ -1,0 +1,61 @@
+.main{
+    background-color: rgb(42, 205, 255);
+    height: auto;
+    
+}
+.containers{
+    height: auto;
+    width: 80vw;
+    margin: auto;
+    background-color: white;
+    padding: 50px;
+}
+h2{
+    color: black;
+}
+.form-label{
+    color: black;
+}
+.form-text{
+    color: black;
+}
+.form-check{
+    color: black;
+}
+.newInput{
+    width: 75%;
+}
+.newInput1{
+    width: 70%;
+}
+
+hr{
+    margin: 0;
+    padding: 0;
+    color: black;
+    width: 100%;
+}
+.btn{
+    padding-left: 20px;
+    padding-right: 20px;
+    align-items: center;
+}
+.links{
+    text-align: end;
+    color: black;
+    text-decoration: none;
+}
+/* #scrollbar{
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+#scrollbar::-webkit-scrollbar{
+    display: none;
+} */
+/* .btnsp{
+    width: 10%;
+    margin-right: 15px;
+}
+.btnsp2{
+    width: 65%;
+} */

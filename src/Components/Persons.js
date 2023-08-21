@@ -1,0 +1,16 @@
+const Persons = [
+    {
+        id: new Date().getTime().toString(),
+        FirstName: "Zaid",
+        LastName: "Ansari",
+        Gender: "Male",
+        Height:"200",
+        Weight:"70",
+        DOB:"2000-06-10",
+        Email:"zaid.ansari@areteminds.com",
+        PhoneNumber:"7004765184",
+        Passport:"qwer567"
+    }
+]
+
+export default Persons;

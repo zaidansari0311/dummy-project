@@ -1,0 +1,66 @@
+.main_EP{
+  background-color: rgb(42, 205, 255);
+  height: auto;
+  
+}
+.containers_EP{
+  height: auto;
+  width: 80vw;
+  margin: auto;
+  background-color: white;
+}
+h2{
+  color: black;
+}
+.form-label{
+  color: black;
+}
+.form-text{
+  color: black;
+}
+.form-check{
+  color: black;
+}
+.newInput_EP{
+  width: 75%;
+}
+.newInput1_EP{
+  width: 70%;
+}
+
+hr{
+  margin: 0;
+  padding: 0;
+  color: black;
+  width: 100%;
+}
+.btn_EP{
+  padding-left: 20px;
+  padding-right: 20px;
+  align-items: center;
+}
+.links{
+  text-align: end;
+  color: black;
+  text-decoration: none;
+}
+.E_Link {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  display: block;
+}
+
+.E_Link:hover {
+  background-color: white;
+}
+.E_dashBoard {
+  height: 100vh;
+  width: 100wh;
+  background-color: white;
+}
+
+/* @media (min-width:600px){
+
+} */
